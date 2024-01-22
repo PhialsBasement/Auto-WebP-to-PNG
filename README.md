@@ -34,7 +34,7 @@ cd Auto-WebP-to-PNG
 ```bash
 python API.py
 ```
-2. Run the watchdog
+4. Run the watchdog
 ```bash
 python main.py
 ``` 
